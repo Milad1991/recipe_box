@@ -1,28 +1,8 @@
-== README
+Recipe Box
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The purpose of this app is to store recipes.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+The app has the ability to create, edit, update, destroy, and display recipes.
+It also has the ability to upload images from the user using 'paperclip'.
+The app is also uses User Authentication.
+styling has been included in this project, with more to be done
